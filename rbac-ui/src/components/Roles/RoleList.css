@@ -1,4 +1,4 @@
-/* Table styling */
+
 .table {
   width: 100%;
   border-collapse: collapse;
@@ -18,13 +18,13 @@
   background-color: #f1f1f1;
 }
 
-/* Adding space between buttons */
+
 .table td .button {
-  margin-right: 10px; /* Adds space between buttons */
+  margin-right: 10px; 
 }
 
 .table td .button:last-child {
-  margin-right: 0; /* Remove right margin from the last button */
+  margin-right: 0; 
 }
 
 @media (max-width: 768px) {
