@@ -30,12 +30,12 @@
   }
   
   .add-user {
-    background-color: #4caf50; /* Green background for Add User */
+    background-color: #4caf50; 
   }
   
   .add-user:hover {
-    background-color: #45a049; /* Darker green for hover */
+    background-color: #45a049; 
   }
   
-  /* Add any other specific button styles here */
+ 
   
